@@ -1,0 +1,10 @@
+﻿Name: Jacky.Crawler
+AntiForgery: enabled
+Author: Jacky Hsu
+Website: http://orchardproject.net
+Version: 1.0
+OrchardVersion: 1.7
+Description: Description for the module
+Features:
+    Jacky.Crawler:
+        Description: Description for feature Jacky.Crawler.
